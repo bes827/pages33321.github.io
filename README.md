@@ -1,4 +1,4 @@
-# pages33321.github.io
+# Example skim sci
 
 [Example Page 1](https://bes827.github.io/pages33321.github.io/articles_byJournal_tabsets.html)
 
